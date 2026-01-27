@@ -25,6 +25,7 @@ if _settings.logfire_token:
             send_to_logfire='if-token-present',
             service_name=_settings.logfire_service_name,
             environment=_settings.logfire_environment,
+            console=logfire.ConsoleOptions(show_project_link=False),
         )
 
         # Instrument Pydantic AI
